@@ -1,5 +1,5 @@
 {
-  "name": "astro-template",
+  "name": "myhron-blog",
   "installCommand": "pnpm install",
   "assets": {
     "directory": "./dist"
